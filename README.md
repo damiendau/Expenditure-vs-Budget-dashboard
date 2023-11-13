@@ -1,0 +1,1 @@
+This is a dashboard I created during my internship at KPMG for a client of the company. I anonymized all the data for privacy reasons. This dashboard gives insights of the expenditures of each employee compared to the initial budget allocated to them.
